@@ -1,1 +1,1 @@
-# studyproj
+# Project for study
